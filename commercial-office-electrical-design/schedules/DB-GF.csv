@@ -1,0 +1,24 @@
+Circuit,Description,Phase,Load_W,PF,Design_current_A,Breaker_A,Protection,Cable,Destination,Length_m,Diversity,Demand_W,Notes
+GF-L01,Open office west,A,435,0.95,1.991,10,1P+N 30mA Type A RCBO,2C 1.5 mm2 Cu + 1.5 mm2 PE,Open office west,35,1,435,12 normal + 1 EM/EX; unswitched emergency tap
+GF-L02,Open office east,A,438,0.95,2.005,10,1P+N 30mA Type A RCBO,2C 1.5 mm2 Cu + 1.5 mm2 PE,Open office east,35,1,438,12 normal + 2 EM/EX; unswitched emergency tap
+GF-L03,Reception / waiting,A,294,0.95,1.346,10,1P+N 30mA Type A RCBO,2C 1.5 mm2 Cu + 1.5 mm2 PE,Reception / waiting,35,1,294,8 normal + 2 EM/EX; unswitched emergency tap
+GF-L04,Meeting rooms,C,432,0.95,1.977,10,1P+N 30mA Type A RCBO,2C 1.5 mm2 Cu + 1.5 mm2 PE,Meeting rooms,35,1,432,12 normal + 0 EM/EX; unswitched emergency tap
+GF-L05,Kitchen / toilets,A,516,0.95,2.362,10,1P+N 30mA Type A RCBO,2C 1.5 mm2 Cu + 1.5 mm2 PE,Kitchen / toilets,35,1,516,17 normal + 0 EM/EX; unswitched emergency tap
+GF-L06,Service rooms,A,192,0.95,0.879,10,1P+N 30mA Type A RCBO,2C 1.5 mm2 Cu + 1.5 mm2 PE,Service rooms,35,1,192,8 normal + 0 EM/EX; unswitched emergency tap
+GF-L07,Corridor,B,264,0.95,1.208,10,1P+N 30mA Type A RCBO,2C 1.5 mm2 Cu + 1.5 mm2 PE,Corridor,35,1,264,10 normal + 8 EM/EX; unswitched emergency tap
+GF-L08,Both stairs,B,168,0.95,0.769,10,1P+N 30mA Type A RCBO,2C 1.5 mm2 Cu + 1.5 mm2 PE,Both stairs,45,1,168,6 normal + 8 EM/EX; unswitched emergency tap
+GF-P01,Desk bank west,B,2400,0.95,10.984,20,1P+N 30mA Type A RCBO,2C 4 mm2 Cu + 4 mm2 PE,Desk bank west,45,0.6,1440,6 double GPO; estimated equipment load
+GF-P02,Desk bank centre,C,2400,0.95,10.984,20,1P+N 30mA Type A RCBO,2C 4 mm2 Cu + 4 mm2 PE,Desk bank centre,45,0.6,1440,6 double GPO; estimated equipment load
+GF-P03,Desk bank east,B,2400,0.95,10.984,20,1P+N 30mA Type A RCBO,2C 4 mm2 Cu + 4 mm2 PE,Desk bank east,45,0.6,1440,6 double GPO; estimated equipment load
+GF-P04,Meeting / offices,B,1800,0.95,8.238,20,1P+N 30mA Type A RCBO,2C 4 mm2 Cu + 4 mm2 PE,Meeting / offices,45,0.6,1080,4 double GPO; estimated equipment load
+GF-P05,Reception / cleaning,A,1800,0.95,8.238,20,1P+N 30mA Type A RCBO,2C 4 mm2 Cu + 4 mm2 PE,Reception / cleaning,45,0.6,1080,5 double GPO; estimated equipment load
+GF-P06,Kitchen small power,A,3000,0.95,13.73,20,1P+N 30mA Type A RCBO,2C 4 mm2 Cu + 4 mm2 PE,Kitchen small power,45,0.6,1800,3 double GPO; estimated equipment load
+GF-REF01,Refrigerator,C,250,0.9,1.208,10,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,Refrigerator,25,0.8,200,30 mA Type A RCBO; manufacturer verification
+GF-DW01,Dishwasher,C,2000,1,8.696,16,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,Dishwasher,30,0.8,1600,30 mA Type A RCBO; manufacturer verification
+GF-MW01,Microwave,C,1500,0.95,6.865,16,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,Microwave,30,0.8,1200,30 mA Type A RCBO; manufacturer verification
+GF-WH01,Storage water heater,C,2400,1,10.435,16,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,Storage water heater,30,1,2400,30 mA Type A RCBO; manufacturer verification
+GF-CP01,Copier,B,1500,0.95,6.865,16,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,Copier,30,0.6,900,30 mA Type A RCBO; manufacturer verification
+GF-UPS01,UPS-01 input / server rack,A,2200,0.95,10.069,16,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,UPS-01 input / server rack,20,1,2200,30 mA Type A RCBO; manufacturer verification
+GF-COM01,Comms equipment non-UPS,B,400,0.95,1.831,10,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,Comms equipment non-UPS,20,1,400,30 mA Type A RCBO; manufacturer verification
+GF-AC01,AC-GF-01 packaged HVAC,ABC,6000,0.9,9.623,16,3P MCB; RCD per manufacturer,4C 4 mm2 Cu + 4 mm2 PE,AC-GF-01 packaged HVAC,45,0.9,5400,3P protection; RCD type per inverter manufacturer; local isolator
+GF-AC02,AC-GF-02 packaged HVAC,ABC,6000,0.9,9.623,16,3P MCB; RCD per manufacturer,4C 4 mm2 Cu + 4 mm2 PE,AC-GF-02 packaged HVAC,45,0.9,5400,3P protection; RCD type per inverter manufacturer; local isolator

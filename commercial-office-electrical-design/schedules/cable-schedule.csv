@@ -1,0 +1,48 @@
+Cable_ID,Board,Role,Cores,Active_neutral_mm2,PE_mm2,Length_m,Route,Proposed_In_A
+C-M,MSB,Incoming,4,70,35,20,Service,160
+C-GF,DB-GF,Feeder,4,25,16,12,Tray/riser,80
+C-FF,DB-FF,Feeder,4,25,16,25,Tray/riser,80
+GF-L01,DB-GF,Final,2,1.5,1.5,35,Tray + conduit,10
+GF-L02,DB-GF,Final,2,1.5,1.5,35,Tray + conduit,10
+GF-L03,DB-GF,Final,2,1.5,1.5,35,Tray + conduit,10
+GF-L04,DB-GF,Final,2,1.5,1.5,35,Tray + conduit,10
+GF-L05,DB-GF,Final,2,1.5,1.5,35,Tray + conduit,10
+GF-L06,DB-GF,Final,2,1.5,1.5,35,Tray + conduit,10
+GF-L07,DB-GF,Final,2,1.5,1.5,35,Tray + conduit,10
+GF-L08,DB-GF,Final,2,1.5,1.5,45,Tray + conduit,10
+GF-P01,DB-GF,Final,2,4,4,45,Tray + conduit,20
+GF-P02,DB-GF,Final,2,4,4,45,Tray + conduit,20
+GF-P03,DB-GF,Final,2,4,4,45,Tray + conduit,20
+GF-P04,DB-GF,Final,2,4,4,45,Tray + conduit,20
+GF-P05,DB-GF,Final,2,4,4,45,Tray + conduit,20
+GF-P06,DB-GF,Final,2,4,4,45,Tray + conduit,20
+GF-REF01,DB-GF,Final,2,2.5,2.5,25,Tray + conduit,10
+GF-DW01,DB-GF,Final,2,2.5,2.5,30,Tray + conduit,16
+GF-MW01,DB-GF,Final,2,2.5,2.5,30,Tray + conduit,16
+GF-WH01,DB-GF,Final,2,2.5,2.5,30,Tray + conduit,16
+GF-CP01,DB-GF,Final,2,2.5,2.5,30,Tray + conduit,16
+GF-UPS01,DB-GF,Final,2,2.5,2.5,20,Tray + conduit,16
+GF-COM01,DB-GF,Final,2,2.5,2.5,20,Tray + conduit,10
+GF-AC01,DB-GF,Final,4,4,4,45,Tray + conduit,16
+GF-AC02,DB-GF,Final,4,4,4,45,Tray + conduit,16
+FF-L01,DB-FF,Final,2,1.5,1.5,35,Tray + conduit,10
+FF-L02,DB-FF,Final,2,1.5,1.5,35,Tray + conduit,10
+FF-L03,DB-FF,Final,2,1.5,1.5,35,Tray + conduit,10
+FF-L04,DB-FF,Final,2,1.5,1.5,35,Tray + conduit,10
+FF-L05,DB-FF,Final,2,1.5,1.5,35,Tray + conduit,10
+FF-L06,DB-FF,Final,2,1.5,1.5,35,Tray + conduit,10
+FF-L07,DB-FF,Final,2,1.5,1.5,35,Tray + conduit,10
+FF-L08,DB-FF,Final,2,1.5,1.5,45,Tray + conduit,10
+FF-P01,DB-FF,Final,2,4,4,45,Tray + conduit,20
+FF-P02,DB-FF,Final,2,4,4,45,Tray + conduit,20
+FF-P03,DB-FF,Final,2,4,4,45,Tray + conduit,20
+FF-P04,DB-FF,Final,2,4,4,45,Tray + conduit,20
+FF-P05,DB-FF,Final,2,4,4,45,Tray + conduit,20
+FF-P06,DB-FF,Final,2,4,4,45,Tray + conduit,20
+FF-REF01,DB-FF,Final,2,2.5,2.5,25,Tray + conduit,10
+FF-DW01,DB-FF,Final,2,2.5,2.5,30,Tray + conduit,16
+FF-MW01,DB-FF,Final,2,2.5,2.5,30,Tray + conduit,16
+FF-WH01,DB-FF,Final,2,2.5,2.5,30,Tray + conduit,16
+FF-CP01,DB-FF,Final,2,2.5,2.5,30,Tray + conduit,16
+FF-AC01,DB-FF,Final,4,4,4,45,Tray + conduit,16
+FF-AC02,DB-FF,Final,4,4,4,45,Tray + conduit,16

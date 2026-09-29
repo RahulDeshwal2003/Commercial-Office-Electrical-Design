@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "checks": 638,
+  "circuits": 44,
+  "normal_luminaires": 171,
+  "emergency_and_exit_fittings": 40,
+  "double_outlets": 62,
+  "equipment_connections": 16,
+  "connected_W": 75104,
+  "demand_W": 58964.0,
+  "maximum_phase_demand_A": 92.01859052208692,
+  "max_drop_percent": 3.7308,
+  "scope": "Structural and numerical consistency only; not standards compliance"
+}

@@ -1,0 +1,17 @@
+Equipment_ID,Circuit,Description,Input_W,Supply,PF,Current_A,Breaker_A,Protection,Cable,Floor,X_m,Y_m,Basis
+GF-REF01,GF-REF01,Refrigerator,250,230 V 1P+N+PE,0.9,1.208,10,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,GF,19,12.5,Estimated electrical input; verify nameplate
+GF-DW01,GF-DW01,Dishwasher,2000,230 V 1P+N+PE,1,8.696,16,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,GF,21,12,Estimated electrical input; verify nameplate
+GF-MW01,GF-MW01,Microwave,1500,230 V 1P+N+PE,0.95,6.865,16,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,GF,23,12.5,Estimated electrical input; verify nameplate
+GF-WH01,GF-WH01,Storage water heater,2400,230 V 1P+N+PE,1,10.435,16,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,GF,23,9,Estimated electrical input; verify nameplate
+GF-CP01,GF-CP01,Copier,1500,230 V 1P+N+PE,0.95,6.865,16,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,GF,9,5,Estimated electrical input; verify nameplate
+GF-UPS01,GF-UPS01,UPS-01 input / server rack,2200,230 V 1P+N+PE,0.95,10.069,16,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,GF,4.5,11,Estimated electrical input; verify nameplate
+GF-COM01,GF-COM01,Comms equipment non-UPS,400,230 V 1P+N+PE,0.95,1.831,10,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,GF,5.5,9.5,Estimated electrical input; verify nameplate
+AC-GF-01,GF-AC01,HVAC outdoor unit,6000,400 V 3P+N+PE,0.9,9.623,16,3P MCB; RCD per manufacturer,4C 4 mm2 Cu + 4 mm2 PE,GF,11,14.8,Estimated electrical input; verify nameplate
+AC-GF-02,GF-AC02,HVAC outdoor unit,6000,400 V 3P+N+PE,0.9,9.623,16,3P MCB; RCD per manufacturer,4C 4 mm2 Cu + 4 mm2 PE,GF,22,14.8,Estimated electrical input; verify nameplate
+FF-REF01,FF-REF01,Refrigerator,250,230 V 1P+N+PE,0.9,1.208,10,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,FF,27.5,12.5,Estimated electrical input; verify nameplate
+FF-DW01,FF-DW01,Dishwasher,2000,230 V 1P+N+PE,1,8.696,16,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,FF,28.5,12,Estimated electrical input; verify nameplate
+FF-MW01,FF-MW01,Microwave,1500,230 V 1P+N+PE,0.95,6.865,16,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,FF,29.5,12.5,Estimated electrical input; verify nameplate
+FF-WH01,FF-WH01,Storage water heater,2400,230 V 1P+N+PE,1,10.435,16,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,FF,29,9,Estimated electrical input; verify nameplate
+FF-CP01,FF-CP01,Copier,1500,230 V 1P+N+PE,0.95,6.865,16,1P+N 30mA Type A RCBO,2C 2.5 mm2 Cu + 2.5 mm2 PE,FF,1.5,11,Estimated electrical input; verify nameplate
+AC-FF-01,FF-AC01,HVAC outdoor unit,6000,400 V 3P+N+PE,0.9,9.623,16,3P MCB; RCD per manufacturer,4C 4 mm2 Cu + 4 mm2 PE,FF,11,14.8,Estimated electrical input; verify nameplate
+AC-FF-02,FF-AC02,HVAC outdoor unit,6000,400 V 3P+N+PE,0.9,9.623,16,3P MCB; RCD per manufacturer,4C 4 mm2 Cu + 4 mm2 PE,FF,22,14.8,Estimated electrical input; verify nameplate
